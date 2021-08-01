@@ -1,0 +1,18 @@
+p {
+  font-family: Lato;
+}
+
+.isAbsent {
+  background-color: #fe6c6c;
+  color: white;
+}
+
+.isPresent {
+  background-color: green;
+  color: white;
+}
+
+.isLeave {
+  background-color: orange;
+  color: black;
+}
